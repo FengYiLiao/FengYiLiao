@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FengYiLiao. I am a master student in University of California San Diego.
+- 👋 Hi, I’m @FengYiLiao. I am a master student at University of California San Diego.
 - 👀 I’m interested in Optimization, Machine Learning,.
 - 📫 Email: robert147456@gmail.com
 
